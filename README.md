@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 **Frameworks/Libraries**
 <img title="Django" alt="Django" height="30px" src="https://twilio-cms-prod.s3.amazonaws.com/original_images/django-dark.png">|<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">|<img title="Node" alt="Node" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">|<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">|<img title="jQuery" alt="jQuery" width="40px" src="https://res.cloudinary.com/penname/image/fetch/https://miro.medium.com/max/570/1*QR2SBNwG75LyY5uwqWpN3A.png">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>|
-<a href="https://hibernate.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg" alt="hibernate" width="40" height="40"/> </a>|<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>|
+<img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg" alt="hibernate" width="40" height="40"/>|<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>|
 |--|--|--|--|--|--|--|--|--|--|--|
 
 
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 **Databases**
 
-<img title="SQL" alt="SQL" width="60px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png">|<img title="MongoDB" alt="MongoDB" height="30px" src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png">|<img title="Cloud Firestore" alt="Cloud Firestore" width="40px" src="https://raw.githubusercontent.com/jovotech/jovo-marketplace/master/thumbnails/jovo-db-firestore.png">|<a href="https://www.oracle.com/in/database/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle-database" width="40" height="40" title="Oracle Database"/></a>|<a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <br>
+<img title="SQL" alt="SQL" width="60px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png">|<img title="MongoDB" alt="MongoDB" height="30px" src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png">|<img title="Cloud Firestore" alt="Cloud Firestore" width="40px" src="https://raw.githubusercontent.com/jovotech/jovo-marketplace/master/thumbnails/jovo-db-firestore.png">|<img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle-database" width="40" height="40" title="Oracle Database"/>|<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> <br>
 |--|--|--|
 
 **Other**
