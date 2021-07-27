@@ -54,6 +54,3 @@ Here are some ideas to get you started:
 	<a href="https://www.linkedin.com/in/purva-shukla-76a9a41b8/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	
 </p>
-
-<hr/>
-
